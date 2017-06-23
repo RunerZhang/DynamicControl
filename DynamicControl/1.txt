@@ -1,0 +1,20 @@
+{
+    "control":[
+            {"imgStr": "https://i.huim.com/miaoquan/14929203253142.SS2!/both/300x300/unsharp/true",
+                "type": "image",
+                "title": "1",
+                "placeHolder": "1",
+                "selected": "1",
+                "editable": "1",},
+                {
+                    "imgStr": "https://i.huim.com/miaoquan/14929203253142.SS2!/both/300x300/unsharp/true",
+                    "type": "textField",
+                    "title": "1",
+                    "placeHolder": "1",
+                    "selected": "1",
+                    "editable": "1",
+                }
+    ]
+
+
+}
